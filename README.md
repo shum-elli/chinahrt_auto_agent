@@ -7,7 +7,9 @@ A tampermonkey js script for chinahrt web
 
 原先的开源的yikuaibaiban的版本获取video的方式是有问题的 直接重构了
 
-tips: video要去二级的一个界面里去获取
+使用方法就是复制项目里的JS的全部内容，到油猴里新建一个脚本，懒得去greasyfork上传了，也没做得非常好
+
+二次开发tips: video要去二级的一个界面里去获取
 
 目前做的不是很完善，借助GPT搓出来的，我自己暂时已经刷完了（暂时辞职读书去了，一时半会应该不会更新了），有动手能力可以自己测试修改
 
